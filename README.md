@@ -52,6 +52,23 @@ What's NOT here:
 
 ---
 
+## Want to dig deeper?
+
+This is a **frozen snapshot** — the active work continues in the private repo, with new sprint docs landing every 1-2 weeks (Self-Portrait pipeline, Insight Detectors, Story Timeline, Hierarchy & Ownership graphs, …).
+
+If anything here resonates and you want to **chat / contribute / get private-repo access**:
+- 💬 Open a GitHub Discussion on this repo — public, threaded, async-friendly
+- 📩 Email **kustyuka@gmail.com**
+- ✈️ Telegram **@yuka_k**
+
+I'm especially interested in talking to people working on:
+- Edge inference (CoreML / ONNX RT Mobile / on-device LoRA)
+- Personal-data sovereignty / federated approaches
+- Memory architecture beyond simple RAG (Tulving/Squire taxonomy, episodic vs semantic)
+- Anything in §17 of `docs/jippy_architecture_final.md`
+
+---
+
 ## License
 
 Documents only. No code in this repo. Specs and strategy are shared under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — free to read, share, adapt, with attribution.
